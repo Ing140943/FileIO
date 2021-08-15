@@ -36,3 +36,4 @@ def find_and_replace(filename, word, new_word):
         file.write(new_data)
 
 find_and_replace('story.txt', 'Alice', 'Colt')
+print("Hello")
